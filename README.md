@@ -1,4 +1,4 @@
-*__NOTE:__ This is <a href="https://gist.github.com/Zearin/2f40b7b9cfc51132851a" target="_blank" rel="noopener noreferrer">a question I found on GitHub</a> which I’ve archived here, because the answer is so effing phenomenal.*
+*__NOTE:__ This is [a question I found on GitHub][1] which I’ve archived here, because the answer is so effing phenomenal.*
 
 ----
 
@@ -898,7 +898,7 @@ Python itself provides several decorators: `property`, `staticmethod`, etc.
 This really is a large playground.
 
 
-  [1]: http://stackoverflow.com/questions/231767/can-somebody-explain-me-the-python-yield-statement/231855#231855
+  [1]: https://gist.github.com/Zearin/2f40b7b9cfc51132851a
   [2]: http://stackoverflow.com/questions/739654/understanding-python-decorators#answer-739665
   [3]: http://en.wikipedia.org/wiki/Decorator_pattern
  
